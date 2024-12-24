@@ -88,7 +88,7 @@ docker logs -f blockscout-vc-sidecar
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/blockscout/blockscout-vc-sidecar.git
+git clone https://github.com/EvmLoader/blockscout-vc-sidecar.git
 ```
 
 2. Build the binary:
